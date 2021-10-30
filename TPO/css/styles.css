@@ -3,7 +3,7 @@ html{
     margin: 0%;
     width: 100vw;
     overflow:visible;
-    background-image: url(css/back1redux.jpg);
+    background-image: url(/TPO/css/back1redux.jpg);
     box-sizing: border-box;
     background-size: 100vw;
     background-repeat:no-repeat;
@@ -27,11 +27,11 @@ html{
 }
 @font-face {
     font-family:'Ver';
-    src: url(css/verdana.ttf);
+    src: url(/TPO/css/verdana.ttf);
 }
 @font-face{
     font-family:'Sab';
-    src: url(css/TheSaBkCp.ttf);
+    src: url(/TPO/css/TheSaBkCp.ttf);
 }
 #logo{
     margin-top:10px;
@@ -254,7 +254,7 @@ hr{
     font-size: 1em;
     text-indent: 5px;
 }
-.formulario{
+#formulario{
     margin: 15px;
     background-color: rgba(204, 204, 204, 0.8);
     border-radius: 15px;
@@ -371,7 +371,7 @@ justify-content: center;
 
 
 footer{
-    background-image:url(css/footer.png) ;
+    background-image:url(/TPO/css/footer.png) ;
     height: 500px;
     width:100%;
     display: grid;
