@@ -3,7 +3,7 @@ html{
     margin: 0%;
     width: 100vw;
     overflow:visible;
-    background-image: url(/TPO/css/back1redux.jpg);
+    background-image: url(css/back1redux.jpg);
     box-sizing: border-box;
     background-size: 100vw;
     background-repeat:no-repeat;
@@ -27,11 +27,11 @@ html{
 }
 @font-face {
     font-family:'Ver';
-    src: url(/TPO/css/verdana.ttf);
+    src: url(css/verdana.ttf);
 }
 @font-face{
     font-family:'Sab';
-    src: url(/TPO/css/TheSaBkCp.ttf);
+    src: url(css/TheSaBkCp.ttf);
 }
 #logo{
     margin-top:10px;
@@ -371,7 +371,7 @@ justify-content: center;
 
 
 footer{
-    background-image:url(/TPO/css/footer.png) ;
+    background-image:url(css/footer.png) ;
     height: 500px;
     width:100%;
     display: grid;
